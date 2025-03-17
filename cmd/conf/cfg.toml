@@ -1,0 +1,5 @@
+
+[logger]
+conf = "./conf/log.yml"
+path = "./log/"
+app_name = "asana"
