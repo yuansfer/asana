@@ -10,7 +10,7 @@ import (
 	"net/http"
 	"time"
 
-	"git.drinkme.beer/yinghe/log"
+	"github.com/yuansfer/log"
 )
 
 // Network contains common configuration.

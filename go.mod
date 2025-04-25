@@ -2,4 +2,4 @@ module git.drinkme.beer/yinghe/asana
 
 go 1.15
 
-require git.drinkme.beer/yinghe/log v0.1.6
+require github.com/yuansfer/log v0.1.0

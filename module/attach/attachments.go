@@ -12,7 +12,7 @@ import (
 	"os"
 	"strings"
 
-	"git.drinkme.beer/yinghe/log"
+	"github.com/yuansfer/log"
 
 	"git.drinkme.beer/yinghe/asana/util"
 )
