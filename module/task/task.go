@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"git.drinkme.beer/yinghe/log"
+	"github.com/yuansfer/log"
 
 	"git.drinkme.beer/yinghe/asana/module"
 	"git.drinkme.beer/yinghe/asana/util"
