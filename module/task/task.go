@@ -8,8 +8,8 @@ import (
 
 	"github.com/yuansfer/log"
 
-	"git.drinkme.beer/yinghe/asana/module"
-	"git.drinkme.beer/yinghe/asana/util"
+	"github.com/yuansfer/asana/module"
+	"github.com/yuansfer/asana/util"
 )
 
 type Data struct {

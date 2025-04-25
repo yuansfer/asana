@@ -8,8 +8,8 @@ import (
 
 	"github.com/yuansfer/log"
 
-	"git.drinkme.beer/yinghe/asana/module/users"
-	"git.drinkme.beer/yinghe/asana/util"
+	"github.com/yuansfer/asana/module/users"
+	"github.com/yuansfer/asana/util"
 )
 
 const (
