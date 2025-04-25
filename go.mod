@@ -1,4 +1,4 @@
-module git.drinkme.beer/yinghe/asana
+module github.com/yuansfer/asana
 
 go 1.15
 

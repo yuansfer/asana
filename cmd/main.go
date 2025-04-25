@@ -1,6 +1,6 @@
 package main
 
-import _ "git.drinkme.beer/yinghe/asana/module/attach"
+import _ "github.com/yuansfer/asana/module/attach"
 
 func main() {
 	println("OK")

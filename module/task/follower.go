@@ -7,7 +7,7 @@ import (
 
 	"github.com/yuansfer/log"
 
-	"git.drinkme.beer/yinghe/asana/util"
+	"github.com/yuansfer/asana/util"
 )
 
 const (
